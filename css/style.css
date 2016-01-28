@@ -17,9 +17,198 @@ div{
   -webkit-box-sizing: border-box; /* Safari/Chrome/iOS/Android */
   box-sizing: border-box; /* IE */
 }
+* {
+	/*border: 1px solid black;*/
+}
+
+/*INDEX STYLING*/
+/*INDEX STYLING*/
+/*INDEX STYLING*/
 
 header {
 	width: 900px;
 	height: 200px;
+	background-color: #ccffff;
 	border: 1px solid black;
+	padding:10px;
+	margin: 10px;
+}
+
+.index_container {
+	width: 900px;
+	margin: 20px 0px 20px 10px;
+}
+
+.left_content {
+	width: 440px;
+	height: 200px;
+	background-color: #00cccc;
+	border: 1px solid black;
+	padding:10px;
+	margin-right: 20px;
+	float: left;
+}
+
+.right_content {
+	width: 440px;
+	height: 200px;
+	background-color: #009999;
+	border: 1px solid black;
+	padding:10px;
+
+	float: left;
+}
+
+footer {
+	width: 900px;
+	height: 200px;
+	background-color: #006666;
+	border: 1px solid black;
+	padding:10px;
+	margin: 10px;
+
+}
+
+.parent {
+	overflow: hidden;
+}
+
+/*THREE COLUMN STYLING*/
+/*THREE COLUMN STYLING*/
+/*THREE COLUMN STYLING*/
+
+.left_content_2 {
+	width: 140px;
+	height: 400px;
+	background-color: #00cccc;
+	border: 1px solid black;
+	padding:10px;
+	margin-right: 20px;
+	float: left;
+}
+
+.middle_content {
+	width: 580px;
+	height: 400px;
+	background-color: #00cccc;
+	border: 1px solid black;
+	padding:10px;
+	margin-right: 20px;
+	float: left;
+}
+
+.right_content_2 {
+	width: 140px;
+	height: 400px;
+	background-color: #00cccc;
+	border: 1px solid black;
+	padding:10px;
+
+	float: left;
+}
+
+.parent {
+	overflow: hidden;
+background-color:black;
+}
+
+/*SIMPLE MARKETING*/
+/*SIMPLE MARKETING*/
+/*SIMPLE MARKETING*/
+
+.left_content_3 {
+	width: 440px;
+	height: 400px;
+	background-color: #00cccc;
+	border: 1px solid black;
+	padding:10px;
+	margin-right: 10px;
+	float: left;
+}
+
+.right_content_3 {
+	width: 440px;
+	height: 400px;
+	background-color: #00cccc;
+	border: 1px solid black;
+	padding:10px;
+	margin-left: 10px;
+	float: left;
+}
+
+.column_container {
+	width: 900px;
+	height: 270px;
+	margin: 10px 10px 20px 10px;
+}
+
+.column_1 {
+	width: 287px;
+	height: 270px;
+	background-color: #00cccc;
+	border: 1px solid black;
+	padding:10px;
+	margin-right: 10px;
+	float: left;
+}
+
+.column_2 {
+	width: 287px;
+	height: 270px;
+	background-color: #00cccc;
+	border: 1px solid black;
+	padding:10px;
+	margin-left: 10px;
+	margin-right: 10px;
+	float: left;
+}
+.column_3 {
+	width: 286px;
+	height: 270px;
+	background-color: #00cccc;
+	border: 1px solid black;
+	padding:10px;
+	margin-left: 10px;
+	float: left;
+}
+
+.middle_container {
+	width: 900px;
+	height: 400px;
+	margin: 20px 20px 20px 10px;
+}
+
+/*MARKETING WITH NAV*/
+/*MARKETING WITH NAV*/
+/*MARKETING WITH NAV*/
+
+.long_bar {
+	width: 900px;
+	height: 330px;
+	background-color: #ccffff;
+	border: 1px solid black;
+	padding:10px;
+	margin: 10px 0px 20px 10px;
+}
+
+nav {
+	width: 900px;
+	height: 200px;
+	border: 1px solid black;
+	margin: 10px;
+}
+
+.logo {
+	width: 300px;
+	height: 200px;
+	background-color: #33ffff;
+	float: left;
+}
+
+.tab_bar {
+	width: 500px;
+	height: 100px;
+	border: 1px solid black;
+	float: right;
+	margin-top: 50;
 }
