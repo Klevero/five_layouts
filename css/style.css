@@ -195,7 +195,7 @@ nav {
 	width: 900px;
 	height: 150px;
 	border: 1px solid black;
-	margin: 10px;
+	margin: 10px 10px 20px 10px;
 }
 
 .logo {
@@ -210,47 +210,47 @@ nav {
 	height: 75px;
 	border: 1px solid black;
 	float: right;
-	margin-top: 37;
+	margin-top: 37px;
 }
 
 .tab_1 {
-	width: 93px;
+	width: 92px;
 	height: 75px;
 	border: 1px solid black;
 	float: right;
-	margin-0px 0px 0px 30px;
+	margin:0px 0px 0px 10px;
 	background-color: #33ffff;
 }
 
 .tab_2 {
-	width: 93px;
+	width: 92px;
 	height: 75px;
 	border: 1px solid black;
 	float: right;
-	margin-0px 0px 0px 10px;
+	margin:0px 0px 0px 10px;
 	background-color: #33ffff;
 }
 
 .tab_3 {
-	width: 93px;
+	width: 92px;
 	height: 75px;
 	border: 1px solid black;
 	float: right;
-	margin-0px 0px 0px 10px;
+	margin:0px 0px 0px 10px;
 	background-color: #33ffff;
 }
 
 .tab_4 {
-	width: 93px;
+	width: 92px;
 	height: 75px;
 	border: 1px solid black;
 	float: right;
-	margin-0px 0px 0px 10px;
+	margin:0px 0px 0px 10px;
 	background-color: #33ffff;
 }
 
 .tab_5 {
-	width: 93px;
+	width: 92px;
 	height: 75px;
 	border: 1px solid black;
 	float: right;
