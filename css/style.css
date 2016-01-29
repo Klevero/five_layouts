@@ -109,7 +109,7 @@ footer {
 
 .parent {
 	overflow: hidden;
-background-color:black;
+/*background-color:black;*/
 }
 
 /*SIMPLE MARKETING*/
@@ -194,7 +194,7 @@ background-color:black;
 nav {
 	width: 900px;
 	height: 150px;
-	border: 1px solid black;
+	/*border: 1px solid black;*/
 	margin: 10px 10px 20px 10px;
 }
 
@@ -202,61 +202,156 @@ nav {
 	width: 300px;
 	height: 150px;
 	background-color: #33ffff;
+	border: 1px solid black;
 	float: left;
 }
 
 .tab_bar {
 	width: 500px;
 	height: 75px;
-	border: 1px solid black;
+	/*border: 1px solid black;*/
 	float: right;
 	margin-top: 37px;
 }
 
 .tab_1 {
-	width: 92px;
+	width: 90px;
 	height: 75px;
 	border: 1px solid black;
 	float: right;
-	margin:0px 0px 0px 10px;
-	background-color: #33ffff;
+	margin:0px 0px 0px 12px;
+	background-color: #bbff99;
 }
 
 .tab_2 {
-	width: 92px;
+	width: 90px;
 	height: 75px;
 	border: 1px solid black;
 	float: right;
-	margin:0px 0px 0px 10px;
+	margin:0px 0px 0px 12px;
 	background-color: #33ffff;
 }
 
 .tab_3 {
-	width: 92px;
+	width: 90px;
 	height: 75px;
 	border: 1px solid black;
 	float: right;
-	margin:0px 0px 0px 10px;
-	background-color: #33ffff;
+	margin:0px 0px 0px 12px;
+	background-color: #bf80ff;
 }
 
 .tab_4 {
-	width: 92px;
+	width: 90px;
 	height: 75px;
 	border: 1px solid black;
 	float: right;
-	margin:0px 0px 0px 10px;
-	background-color: #33ffff;
+	margin:0px 0px 0px 12px;
+	background-color: #ff80bf;
 }
 
 .tab_5 {
-	width: 92px;
+	width: 90px;
 	height: 75px;
 	border: 1px solid black;
 	float: right;
 	background-color: #33ffff;
 }
 
+/*MAGAZINE*/
+/*MAGAZINE*/
+/*MAGAZINE*/
 
+.contain_all {
+	width: 900px;
+	height: 800px;
+	/*border: 1px solid black;*/
+	margin: 10px 0px 20px 10px
+}
 
+aside {
+	width: 144px;
+	height: 800px;
+	border: 1px solid black;
+	background-color: #00b2b3;
+	margin-right: 20px;
+	float: left;
+}
+
+.top_bar {
+	width: 734px;
+	height: 144px;
+	border: 1px solid black;
+	background-color: #bbff99;
+	float: left;
+	margin-bottom: 20px;
+}
+
+.content_2 {
+	width: 734px;
+	height: 472px;
+	/*border: 1px solid black;*/
+	float: left;
+	margin-bottom: 20px;
+}
+
+.left_content_mag {
+	width: 500px;
+	height: 472px;
+	border: 1px solid black;
+	float: left;
+	margin-right: 20px;
+	background-color: #ff80bf;
+}
+
+.right_content_mag {
+	width: 212px;
+	height: 472px;
+	border: 1px solid black;
+	float: left;
+	background-color: #ff80bf;
+}
+
+.bottom_bar {
+	width: 734px;
+	height: 144px;
+	/*border: 1px solid black;*/
+	float: left;
+	margin-bottom: 20px;
+}
+
+.box1 {
+	width: 168px;
+	height: 144px;
+	background-color: #bf80ff;
+	border: 1px solid black;
+	float: left;
+	margin-right: 20px;
+}
+
+.box2 {
+	width: 168px;
+	height: 144px;
+	background-color: #bf80ff;
+	border: 1px solid black;
+	float: left;
+	margin-right: 20px;
+}
+
+.box3 {
+	width: 168px;
+	height: 144px;
+	background-color: #bf80ff;
+	border: 1px solid black;
+	float: left;
+	margin-right: 20px;
+}
+
+.box4 {
+	width: 168px;
+	height: 144px;
+	background-color: #bf80ff;
+	border: 1px solid black;
+	float: left;
+}
 
